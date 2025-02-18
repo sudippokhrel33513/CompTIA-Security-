@@ -15,3 +15,6 @@ Successfully completed the **CompTIA Security+ (SY0-601)** certification, gainin
 
 ### 🎓 Certificate Showcase  
 📜 **View Credential:** [[Insert Certification URL](https://www.credly.com/badges/3b0111ef-7dbc-41b2-bdf8-e58248179651/public_url)]  
+<a href="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/comptia-cert.png">
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/comptia-cert-thumbnail.png" alt="CompTIA Security+ Certificate" width="400">
+</a>
